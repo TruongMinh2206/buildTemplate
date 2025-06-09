@@ -280,7 +280,7 @@ line-height: 22.54px;
 
 .slide-item {
      border-radius: 20px;
-     width: 272px;
+     width: 276px;
     text-align: center;
     font-family: Arial, sans-serif;
      
@@ -765,9 +765,7 @@ div.beae-sections .beae-le3ruj3w .beae-x-text {
 .testimonials-container{
   max-width: 1470px;
 }
-.sections-aboutus-container{
-  max-width: 1470px;
-}
+
 
 .sections-showcase{
         padding-top: 6vmax;
@@ -4216,7 +4214,7 @@ max-width: 1470px;
     clear: both;
     
 }
-.sections-compare-container,.sections-brands-container,.sections-aboutus{
+.sections-compare-container,.sections-brands-container{
   max-width: 1470px;
 }
 .friends-container{
